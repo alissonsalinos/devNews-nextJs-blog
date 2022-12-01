@@ -22,7 +22,7 @@
     "@testing-library/react": "^11.2.7",
     "@types/node": "^15.6.1",
     "@types/prismic-dom": "^2.1.1",
-    "@types/react": "^18.0.1",
+    "@types/react": "18.0.1",
     "@typescript-eslint/eslint-plugin": "^4.25.0",
     "@typescript-eslint/parser": "^4.25.0",
     "babel-jest": "^27.0.2",
